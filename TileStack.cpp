@@ -5,7 +5,7 @@
 #include "stack.h"
 using namespace std;
 
-//initializes the empty stack
+
 
 string name;
 string pos;
