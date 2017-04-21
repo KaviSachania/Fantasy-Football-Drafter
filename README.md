@@ -1,5 +1,5 @@
 # Fantasy-Football-Drafter
-A program that algorithmically selects players in a fantasy football draft.
+A program that algorithmically selects players in a fantasy football draft
 
 
 TileStack and TileNode structure is written by Marty Stepp for Stanford's CS106B and require the Stanford C++ library. TileStack and tilemain files were rewritten to create a fantasy football draft program.
